@@ -1,3 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+label {
+  display: block;
+  margin-bottom: .2em;
+}
+/*
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
@@ -120,3 +128,4 @@
     flex-direction: column;
   }
 }
+*/
